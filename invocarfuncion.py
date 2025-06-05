@@ -1,0 +1,3 @@
+import funcion
+
+funcion.obtener()
